@@ -1,2 +1,7 @@
 /weight/retinface/*.h5
 /weight/facenet/*.h5
+
+.idea
+*.iws
+*.iml
+*.ipr
