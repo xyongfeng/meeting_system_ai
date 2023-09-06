@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33d608c8-8b96-4b44-a54e-c87e8d73344d" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../QQdownload/Python web 学生管理/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../git_test/meeting_system_ai" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -285,7 +285,7 @@
       <workItem from="1683215083908" duration="20000" />
       <workItem from="1693971992292" duration="4184000" />
       <workItem from="1693990783466" duration="6578000" />
-      <workItem from="1693999358864" duration="147000" />
+      <workItem from="1693999358864" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693999154018</created>
@@ -294,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693999154018</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1693999575019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693999575019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
